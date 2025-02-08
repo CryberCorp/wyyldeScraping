@@ -1,0 +1,35 @@
+# Dossier contenant des fichiers secrets
+secrets/
+secrets/*.txt
+secrets/*.json
+secrets/*.env
+
+# Fichiers
+data.json
+
+# Fichier d'environnement (ne jamais pousser)
+.env
+
+# Logs
+*.log
+logs/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv (si jamais il est dans le projet)
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv (si jamais il est dans le projet)
+.venv/
+venv/
